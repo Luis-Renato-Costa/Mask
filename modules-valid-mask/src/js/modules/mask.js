@@ -1,4 +1,4 @@
-const type = {
+const Mascara = {
 
     //CPF
     cpf(value){
@@ -38,5 +38,5 @@ const type = {
         }
 };
   
-export default type;
+export default Mascara;
 

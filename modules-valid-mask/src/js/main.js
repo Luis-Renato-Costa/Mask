@@ -1,4 +1,4 @@
-import Mascara from "./modules/masks.js";
+import Mascara from "./modules/mask.js";
 import Validar from "./modules/valid.js";
 
 const fields = document.querySelectorAll("input");
